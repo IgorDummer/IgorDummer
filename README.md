@@ -1,6 +1,6 @@
 ## Hi, I'm Igor Dummer!
 
-I'm a Brazilian developer, curious to learn and looking to be fullstack.
+I'm a Brazilian developer, curious to learn and looking to be a good dev.
 
 - 🎓 Studying Computer Sciente at [UFES](https://www.ufes.br/).
 - 🌱 Exploring mobile and frontend technologies.
