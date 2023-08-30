@@ -7,7 +7,6 @@ I'm a Brazilian developer, curious to learn and looking to be a good dev.
 
 <div align="space-between">
   <a href="https://github.com/IgorDummer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorDummer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="text-decoration: none;"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorDummer&layout=compact&langs_count=7&theme=dracula" style="text-decoration: none;"/></a>
 </div>
 
